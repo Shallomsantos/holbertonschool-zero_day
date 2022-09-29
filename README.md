@@ -1,3 +1,1 @@
-My first readme
-# holbertonschool-zero_day
-# git
+"Hey, how are you today?
